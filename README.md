@@ -1,2 +1,2 @@
 # PublicFiles
-This Repository contain all files that are shared through our web apps.
+This repository contains all the files that are shared by our web application.
